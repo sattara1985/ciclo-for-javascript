@@ -7,3 +7,4 @@ for (let i = 0; i < arr.length; i++) {
     console.log(arr[i]+' es numero');
   }
 }
+console.log("hola");
